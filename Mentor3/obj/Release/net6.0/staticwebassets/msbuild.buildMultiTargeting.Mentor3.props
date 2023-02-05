@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Mentor3.props" />
+</Project>
